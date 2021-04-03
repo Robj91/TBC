@@ -1,0 +1,59 @@
+Main story + side quest variables:
+
+intro = 6;
+story = 0;
+___________________________________
+
+
+Hall of Heroes:
+
+&hdhero
+&hghero
+
+Everytime Dink visits hall of heroes &hdhero goes up by 1.
+Everytime peasant2 visits hall of heroes &hghero goes up by 1.
+______________________________________________________________
+
+
+Variables for character + character values:
+
+Dink - &sgchar = 0;
+peasant2 - &sgchar = 1;
+________________________________________________
+
+
+Store character stats variables:
+
+
+&sgchar - used to tell which character is currently in play - see "variables for character + character values"
+____________________________________________________
+
+
+Mana variables:
+
+&manastop
+&mana
+
+To change mana:
+
+&mana -=2;
+external("upd_mana", "main");
+
+To fill mana:
+
+&mana = 100;
+external("upd_mana","cool",0);
+
+___________________________
+Destroyable rock with bomb:
+ int &checkb = compare_sprite_script(&missle_source, "dam-bomn");
+ if (&checkb == 1)
+ {
+  sp_hard(&current_sprite, 1);
+  draw_hard_map();
+  int &hold = sp_editor_num(&current_sprite);
+  if (&hold != 0)
+  editor_type(&hold, 1);
+  sp_active(&current_sprite, 0);
+  playsound(43, 22050, 0,0,0);
+ }

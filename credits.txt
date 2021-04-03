@@ -1,0 +1,137 @@
+redink1(Dan Walma)
+-----------------------------
+Dan Walma for the Cave tiles and stuff from intiation.
+
+tiles\tsgr40.bmp
+tiles\tsg40.bmp
+tiles\tsp40.bmp
+tiles\tsbl40.bmp
+tiles\tsr40.bmp
+Story\face.c
+Sound\fall.wav
+________________________________________________
+
+Nexis(Gary Hertal)
+------------------------------
+Gary Hertal for the wrap graphic -
+
+Graphics\Effects\wave
+________________________________________________________________
+
+
+Sephiroth(Bruce Harrison)
+-----------------------------
+Bruce Harrison for the Portal Graphics pack - 
+
+
+Graphics\Effects\Portal
+_________________________________________________________________
+
+
+
+Rtsoft
+-------------------------------
+Rtsoft for Dink Smallwood.
+___________________________________________________________________
+
+
+Simonk(Simon Klaebe)
+-------------------------------
+Simonk for the Sob graphics pack, Debris graphics pack, some graphics from PQ, some Cave tiles from PQ, Green potion bonus. -
+
+Graphics\Effects\bluecom 
+Graphics\Effects\blushock
+Graphics\Items\Paper (PAPER-13 to PAPER-34)
+Graphics\Other\bonuses
+tiles\tsgr40.bmp
+Sounds\Muhaha.wav
+Sounds\Drink.wav
+____________________________________________________________________
+
+
+rabidwolf9
+--------------------------------
+rabidwolf9 for Statue exploding sequence, Dinks alternate magic hit, Castle Fix -
+
+Graphics\Effects\statdie
+Graphics\other\firemagic
+Graphics\other\bluemagic
+Graphics\misc\Item-w01 - Item-w15
+Story\yes-roof.c
+Story\no-roof.c
+Story\cwall.c
+____________________________________________________________________
+
+
+
+Gokussj6
+--------------------------------
+Gokussj6 for the wooden status bar -
+
+Graphics\inter\status\stat (stat-01 to stat-03)
+Graphics\inter\menu\menu (menu-09 and menu-10)
+
+(Modified By Robj)
+____________________________________________________________________
+
+
+Paul Pliska
+--------------------------------
+Paul Pliska for the old man dead graphic and the Farmer attack sequence.
+
+Graphics\PEOPLE\PEASANT2\weapon\hit
+Graphics\people\oldman\man5-01
+____________________________________________________________________
+
+
+
+Arik(Neil Troughton)
+------------------------
+Tile from Ikaragu - Ts07
+
+Tiles\Ts07.bmp
+_______________________________________________________________________
+
+
+Cypry
+-------------------------
+Mana system made by crypry. 
+
+Story\mana.c
+Story\mana1.c
+story\upd_mana.c
+graphics\inter\mana\
+
+(Modified By Robj)
+________________________________________________________________________
+
+
+Superwolfman
+------------------------
+Superwolfman for the button graphics pack -
+
+Graphics\but3-01
+Graphics\but3-02
+Graphics\but7-01
+Graphics\but7-02
+Graphics\but9-01
+Graphics\but9-02
+_________________________________________________________________________
+
+
+Sparrowhawk
+----------------------------
+Countdown timer -
+
+Story\l1-timer.c
+
+(Modified by Robj)
+___________________________________________________________________________
+
+Tyrsis
+------------------------
+Dink Trunk - 
+
+
+
+

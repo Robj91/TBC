@@ -1,0 +1,26 @@
+===================
+=Weapons and Magic=
+===================
+ 
+~LEVEL 1: Stonebrook - The beginning of the end~
+
+--Dink--
+
+  -Weapons-
+   Fists
+   Light Sword
+   Massive Bow
+   Throwing Axe
+
+  -Magic-
+   NONE
+   
+--Storm--
+
+  -Weapons-
+   Scythe
+
+  -Magic-
+  Fireball
+  Acid Rain
+  

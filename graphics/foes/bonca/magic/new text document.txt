@@ -1,0 +1,8 @@
+adjustment layer - color balance, top right up, middle right down, bottom normal.
+
+flame cutout - blending mode overlay
+
+duplicate flame cutout - blending mode darken
+
+
+Adjust opacities to fit.

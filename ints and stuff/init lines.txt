@@ -1,0 +1,67 @@
+Magic hits:
+
+//Dink's alternate magic hit
+//red
+init("load_sequence_now graphics\other\firemagic\ds-m2- 322 30 60 84 -15 -9 16 7");
+init("load_sequence_now graphics\other\firemagic\ds-m4- 324 30 61 86 -13 -7 15 8");
+init("load_sequence_now graphics\other\firemagic\ds-m6- 326 30 60 86 -11 -8 13 9");
+init("load_sequence_now graphics\other\firemagic\ds-m8- 328 30 61 83 -15 -4 15 14");
+
+//blue
+init("load_sequence_now graphics\other\bluemagic\ds-m2- 322 30 60 84 -15 -9 16 7");
+init("load_sequence_now graphics\other\bluemagic\ds-m4- 324 30 61 86 -13 -7 15 8");
+init("load_sequence_now graphics\other\bluemagic\ds-m6- 326 30 60 86 -11 -8 13 9");
+init("load_sequence_now graphics\other\bluemagic\ds-m8- 328 30 61 83 -15 -4 15 14");
+_______________________________________________________________________________________
+
+Seth and oldman lines:
+//seth
+init("load_sequence_now graphics\effects\magic\seth1w 581 75 43 133 -19 -16 23 16");
+init("load_sequence_now graphics\effects\magic\seth3w 583 75 44 126 -21 -21 19 16");
+init("load_sequence_now graphics\effects\magic\seth7w 587 75 42 123 -21 -16 18 16");
+init("load_sequence_now graphics\effects\magic\seth9w 589 75 44 125 -20 -16 20 16");
+init("load_sequence_now graphics\effects\magic\pose 580 75 41 129 -30 -16 31 10");
+
+//green gnome(replaces seth)
+init("load_sequence_now graphics\people\gnome\green\c13w1- 581 75 29 55 -15 -7 17 17");
+init("load_sequence_now graphics\people\gnome\green\c13w3- 583 75 31 57 -19 -12 18 12");
+init("load_sequence_now graphics\people\gnome\green\death- 585 1 36 37 -1 -2 -1 -2");
+init("load_sequence_now graphics\people\gnome\green\c13w7- 587 75 30 57 -16 -9 16 10");
+init("load_sequence_now graphics\people\gnome\green\c13w9- 589 75 28 54 -17 -10 17 13");
+_________________________________________________________________________________________
+
+Different splode fire warp thingies:
+
+//Normal splode fire warp thingy (orange)
+init("load_sequence_now graphics\effects\splode\shock- 167");
+
+//blue splode fire warp thingy 
+init("load_sequence_now graphics\effects\splodeb\shock- 167");
+_________________________________________________________________________________________
+
+Character death sequences:
+
+//peasant2 death 
+init("load_sequence_now graphics\people\peasant2\die\death- 467 75 91 40 -64 -30 19 10");
+
+//dink death
+init("load_sequence_now graphics\dink\die\ds-x3- 467 75 30 67 -10 -9 10 9");
+___________________________________________________________________________________________
+
+Push sequences:
+//peasant2
+init("load_sequence_now graphics\people\peasant2\c11w1- 312 75 55 96 -16 -8 18 15");
+init("load_sequence_now graphics\people\peasant2\c11w3- 314 75 50 94 -20 -11 21 16");
+init("load_sequence_now graphics\people\peasant2\c11w7- 316 75 56 97 -21 -9 23 15");
+init("load_sequence_now graphics\people\peasant2\c11w9- 318 100 48 100 -13 -8 19 12);
+
+
+//dinks push sprites
+init("load_sequence_now graphics\dink\push\ds-p2- 312 75 45 79 -7 -21 13 -7");
+init("load_sequence_now graphics\dink\push\ds-p4- 314 75 36 69 3 -9 45 9");
+init("load_sequence_now graphics\dink\push\ds-p6- 316 75 67 71 -21 -12 21");
+init("load_sequence_now graphics\dink\push\ds-p8- 318 75 46 59 -9 5 12 24");
+
+
+
+

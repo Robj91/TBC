@@ -1,0 +1,63 @@
+Tiles changed:
+ts07.bmp, 07
+
+used:
+ts40.bmp, 40
+
+__________________________________________________
+
+
+TILES:
+
+Caves - 40
+
+//normal caves
+load_tile("tiles\ts40.bmp", 40);
+
+//blue caves
+load_tile("tiles\tsb40.bmp", 40);
+
+//green with texture
+load_tile("tiles\tsgt40.bmp", 40);
+
+//green
+load_tile("tiles\tsg40.bmp", 40);
+
+//grey
+load_tile("tiles\tsgr40.bmp", 40);
+
+//purple
+load_tile("tiles\tsp40.bmp", 40);
+
+//red
+load_tile("tiles\tsr40.bmp", 40);
+
+//black
+load_tile("tiles\tsbl40.bmp", 40);
+__________________________________________________
+
+
+middle of cliff and road up cliff - 07
+
+//normal
+load_tile("tiles\ts07.bmp", 07);
+
+//snow
+load_tile("tiles\tss07.bmp", 07);
+__________________________________________________
+
+
+main cliff - 06
+
+//normal
+load_tile("tiles\ts06.bmp", 06);
+
+//snow
+load_tile("tiles\tss06.bmp", 06);
+___________________________________________________
+
+
+
+
+
+
